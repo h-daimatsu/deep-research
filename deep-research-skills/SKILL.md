@@ -2,7 +2,7 @@
 name: "deep-research"
 description: "動的アーキタイプ生成型の Deep Research スキル。固定テンプレートを持たず、テーマの調査計画に基づいてレポート構造（章立て・分析要素・定量/定性比率）を動的に設計し、調査結果を踏まえて構造を改訂してからレポートを作成する。使用タイミング: ユーザーがリサーチテーマを提示し、深い調査が必要な場合に使用する。トリガーキーワード（日本語）: 深く調べて、徹底調査、ディープリサーチ、アダプティブリサーチ、包括的に調査、詳しく調べて、構造から設計して調べて、テーマに合わせて深く調べて。トリガーキーワード（英語）: deep research, adaptive research, thorough investigation, comprehensive research, in-depth analysis, deep dive, design the structure and research."
 metadata:
-  version: "4.6"
+  version: "4.7"
 ---
 
 # Deep Research スキル
